@@ -1,0 +1,1 @@
+<div class="link_atas"><b><a href="?page=backup">Backup Database</a></b></div>
